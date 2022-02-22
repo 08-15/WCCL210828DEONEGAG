@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/optify-logo-32-32x32.png",
+    "favicon": "@PROJECT_PATH@/assets/images/220219-oe-button-600-128x128_1.png",
     "noImageResize": null,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -54,10 +54,10 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 140,
-    "versionPublish": "5.3.0",
+    "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "mbrsiteDomain": "xxar8qpu6c",
+    "mbrsiteDomain": "392ldjknsv",
     "publishChangesOnly": true
   },
   "pages": {
